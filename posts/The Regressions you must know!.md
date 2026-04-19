@@ -6,6 +6,6 @@ featured: true
 ---
 
 # Linear Regression
-We apply linear regression model, if we expect the output to be a linear combination of input features.
-Mathematically linear regression function for the predicted value can be represented as:
-`ŷ(W, X) =W1 + W1X1 +...+ WpXp`
+We apply linear regression model, if we expect the output to be a linear combination of input features. <br>
+Mathematically linear regression function for the predicted value can be represented as:<br>
+<center> `ŷ(W, X) =W1 + W1X1 +...+ WpXp` </center>
