@@ -1,7 +1,7 @@
 ---
-title: "The Regressions one must know!"
+title: "The Essentials and The Linear Regression!"
 date: "2026-04-20"
-excerpt: "My way of explaining regression machine learning models"
+excerpt: "My way of explaining linear regression, gradient descent machine learning models"
 featured: true
 ---
 
